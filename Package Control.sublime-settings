@@ -15,9 +15,12 @@
 		"ERB Snippets",
 		"Git",
 		"Package Control",
+		"React ES6 Snippets",
+		"RSpec",
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeLinter-php",
 		"SublimeLinter-rubocop",
 		"Theme - City Lights"
