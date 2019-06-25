@@ -9,6 +9,7 @@
 		".git",
 		".svn",
 		"_site",
+		"tmp",
 		".bundle",
 		".sass-cache",
 		".asset-cache",
