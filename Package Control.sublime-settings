@@ -23,6 +23,7 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-php",
 		"SublimeLinter-rubocop",
+		"Tailwind CSS Autocomplete",
 		"Theme - City Lights"
 	]
 }
